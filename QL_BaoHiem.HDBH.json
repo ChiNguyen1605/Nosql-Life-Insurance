@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "651c3edc7d79ad32a6b7d404"
+  },
+  "MaHopDong": "HD000001",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0005",
+    "TenNguoiMua": "Nguyễn Văn Vinh",
+    "TenNguoiBaoHiem": "Nguyễn Văn Vinh",
+    "GioiTinh": "Nam",
+    "NgaySinh": {
+      "$date": "2002-12-20T00:00:00.000Z"
+    },
+    "NganhNghe": "Sinh Viên",
+    "NoiSinh": "TP.HCM"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0001",
+      "TenSanPham": "Manulife - Cuộc sống tươi đẹp",
+      "ThoiHanBH": 69,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 300000000,
+      "PhiDinhKy": 24500000
+    },
+    {
+      "MaSP": "SP0002",
+      "TenSanPham": "Manulife - Sống khỏe sống vui",
+      "ThoiHanBH": 50,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 50000000,
+      "PhiDinhKy": 1000000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 25500000,
+  "PhiGiamHopDong": 1500000,
+  "TongPhiBHDinhKy": 24000000,
+  "NgayKyHopDong": {
+    "$date": "2020-04-15T16:54:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c3f157d79ad32a6b7d405"
+  },
+  "MaHopDong": "HD000008",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0003",
+    "TenNguoiMua": "Nguyễn Văn Ánh",
+    "TenNguoiBaoHiem": "Nguyễn Văn Danh",
+    "GioiTinh": "Nam",
+    "NgaySinh": {
+      "$date": "2002-12-20T00:00:00.000Z"
+    },
+    "NganhNghe": "Sinh Viên",
+    "NoiSinh": "Cần Thơ"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0001",
+      "TenSanPham": "Manulife - Cuộc sống tươi đẹp",
+      "ThoiHanBH": 69,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 300000000,
+      "PhiDinhKy": 24500000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 24500000,
+  "PhiGiamHopDong": 1475000,
+  "TongPhiBHDinhKy": 23500000,
+  "NgayKyHopDong": {
+    "$date": "2020-04-15T16:54:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c3f907d79ad32a6b7d406"
+  },
+  "MaHopDong": "HD000005",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0008",
+    "TenNguoiMua": "Nguyễn Thị Canh",
+    "TenNguoiBaoHiem": "Nguyễn Thành Nhân",
+    "GioiTinh": "Nam",
+    "NgaySinh": {
+      "$date": "2008-12-20T00:00:00.000Z"
+    },
+    "NganhNghe": "Học Sinh",
+    "NoiSinh": "TP.HCM"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0014",
+      "TenSanPham": "Manulife - Bảo hiểm nhân thọ 5",
+      "ThoiHanBH": 69,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 50000000,
+      "PhiDinhKy": 2500000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 2500000,
+  "PhiGiamHopDong": 100000,
+  "TongPhiBHDinhKy": 2400000,
+  "NgayKyHopDong": {
+    "$date": "2018-04-15T16:54:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c3fddd317369f60972d2e"
+  },
+  "MaHopDong": "HD000008",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0007",
+    "TenNguoiMua": "Nguyễn Lê Ngọc",
+    "TenNguoiBaoHiem": "Nguyễn Lê Ngọc",
+    "GioiTinh": "Nữ",
+    "NgaySinh": {
+      "$date": "2008-12-19T17:00:00.000Z"
+    },
+    "NganhNghe": "Học Sinh",
+    "NoiSinh": "TP.HCM"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0014",
+      "TenSanPham": "Manulife - Bảo hiểm nhân thọ 5",
+      "ThoiHanBH": 69,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 50000000,
+      "PhiDinhKy": 2500000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 2500000,
+  "PhiGiamHopDong": 100000,
+  "TongPhiBHDinhKy": 2400000,
+  "NgayKyHopDong": {
+    "$date": "2018-04-15T16:54:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c4015d317369f60972d2f"
+  },
+  "MaHopDong": "HD000018",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0009",
+    "TenNguoiMua": "La Thị Canh",
+    "TenNguoiBaoHiem": "La Thị Canh",
+    "GioiTinh": "Nữ",
+    "NgaySinh": {
+      "$date": "1998-12-20T00:00:00.000Z"
+    },
+    "NganhNghe": "Giáo Viên",
+    "NoiSinh": "Long An"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0011",
+      "TenSanPham": "Manulife - Bảo hiểm nhân thọ 9",
+      "ThoiHanBH": 30,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 20000000,
+      "PhiDinhKy": 2500000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 2500000,
+  "PhiGiamHopDong": 100000,
+  "TongPhiBHDinhKy": 1400000,
+  "NgayKyHopDong": {
+    "$date": "2022-04-15T16:54:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c4051d317369f60972d30"
+  },
+  "MaHopDong": "HD000028",
+  "ThongTinKhachHang": {
+    "MaTTKH": "TTKH0019",
+    "TenNguoiMua": "Nguyễn Ngọc Linh",
+    "TenNguoiBaoHiem": "Nguyễn Ngọc Linh",
+    "GioiTinh": "Nữ",
+    "NgaySinh": {
+      "$date": "1970-01-01T00:00:00.000Z"
+    },
+    "NganhNghe": "Thư Ký",
+    "NoiSinh": "Bình Dương"
+  },
+  "SanPhamBH": [
+    {
+      "MaSP": "SP0011",
+      "TenSanPham": "Manulife - Bảo hiểm nhân thọ 9",
+      "ThoiHanBH": 30,
+      "MucThamDinh": "Chuan",
+      "SoTienBH": 20000000,
+      "PhiDinhKy": 2500000
+    }
+  ],
+  "TrangThaiHopDong": true,
+  "TongPhiSanPham": 2500000,
+  "PhiGiamHopDong": 100000,
+  "TongPhiBHDinhKy": 1400000
+}]

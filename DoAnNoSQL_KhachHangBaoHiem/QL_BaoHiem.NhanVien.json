@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "651c45157d79ad32a6b7d407"
+  },
+  "MaNV": "NV001",
+  "HoTen": "Lê Văn Tài",
+  "NgaySinh": {
+    "$date": "1995-05-11T00:00:00.000Z"
+  },
+  "SDT": "0876678876",
+  "NoiSong": "TP.HCM",
+  "TaiKhoan": {
+    "TenNguoiDung": [
+      "LeVanTai",
+      "0876678876"
+    ],
+    "MatKhau": "123456",
+    "Quyen": "ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c45c4d317369f60972d36"
+  },
+  "MaNV": "NV002",
+  "HoTen": "La Thị Lành",
+  "NgaySinh": {
+    "$date": "1998-05-11T00:00:00.000Z"
+  },
+  "SDT": "0811178231",
+  "NoiSong": "TP.HCM",
+  "TaiKhoan": {
+    "TenNguoiDung": [
+      "LaThiLanh",
+      "0811178231"
+    ],
+    "MatKhau": "123456",
+    "Quyen": "NV"
+  }
+}]

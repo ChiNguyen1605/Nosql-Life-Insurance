@@ -1,0 +1,5 @@
+db.HDBH.aggregate([{$project:{'ThongTinKhachHang.MaTTKH':1,sl:{$size:'$SanPhamBH'}}},{$match:{sl:{$gte:2}}}]);
+
+db.HDBH.aggregate([{$unwind:'$SanPhamBH'},{$group:{_id:"$SanPhamBH.MaSP", SLKH_Mua:{$sum:1}}}])
+
+db.HDBH.aggregate([{$match:{$or:[{'ThongTinKhachHang.NganhNghe':'Sinh Viên'},{'ThongTinKhachHang.NganhNghe':'Học Sinh'}]}},{$project:{'ThongTinKhachHang.MaTTKH':1, 'ThongTinKhachHang.TenNguoiMua': 1, _id: 0}}])
